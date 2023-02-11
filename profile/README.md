@@ -208,29 +208,3 @@ EC2,CloudFront,Route53,certificate Manager, S3,codeDeploy,ELB
 
 - 제목으로 모집 게시글 검색이 가능합니다.
 
-# 3. 팀원 개별 소개
-
----
-<div style="text-align: center;">
-
-프로젝트 기획/ API 설계/ 테이블 및 Entity 설계
-
-백엔드</div>
-
-![Github_리드미_백_팀원소개.png](./readme/팀원소개1.png)
-
-| 역할 | 이름 | 담당 |
-| --- | --- | --- |
-| BackEnd (Project Leader) | 전지만 | 1. 프로젝트 Skeleton Code 작성, 회원관리 API (JWT + Spring Security)<br>2.Deploy 환경 구축 및 서버 환경 관리 (AWS route53, ACM , EC2, CodeDeploy,Nginx)<br> 3.Jmeter 서버 부하테스트<br>   4.Oauth2 활용 KAKAO 로그인 |
-   | BackEnd | 김진무 | 1. 댓글 CRUD<br>2.ID, PW 찾기 |
-   | BackEnd | 이동규 | 1. 합류요청 및 팀원관리 CRUD<br>2.QueryDSL을 활용한 필터링 검색기능 구현<br>3.OAuth2 활용 google 로그인<br>4.Jmeter 부하테스트 |
-   | BackEnd | 이원규 | 1. 게시글(퀘스트) CRUD<br>2.WebSocket 활용한 실시간 채팅 기능 구현<br>3.SSE를 활용한 실시간 알림기능 구현<br>4.Redis를 통한 데이터 캐싱<br>   5.Oauth2 활용 Naver 로그인 |
-
-
-
-|  | 이름 | 깃허브 | 블로그 |
-| --- | --- | --- | --- |
-| BE | 전지만 | https://github.com/Camof1ow | https://camof1ow.tistory.com/ |
-| BE | 김진무 | https://github.com/kimjinmoo91 | https://catalia-144000.tistory.com/ |
-| BE | 이동규 | https://github.com/dds1q | https://ddsiq.tistory.com |
-| BE | 이원규 | https://github.com/oneqrhee | https://www.notion.so/695b8219cb3347b998e1a152921f8eaf |
